@@ -73,3 +73,7 @@ print (reviews[5].score)
 # print (reviews[2].sentiment, reviews[2].score)
 
 print (bandymai[3].text, bandymai[3].zodis[:3])
+
+# print (len(bandymai.text))
+
+# a = bandymai.get_text()
