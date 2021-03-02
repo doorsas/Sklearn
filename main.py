@@ -68,7 +68,7 @@ with open(file_name) as f:
 
 print (reviews[5].score)
 
-
+##### bandymas
 
 # print (reviews[2].sentiment, reviews[2].score)
 
